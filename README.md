@@ -12,9 +12,9 @@ This repository showcases Tableau dashboards created for various domains, includ
 - images/ # Dashboard screenshots
 
 ## 🔗 Links to Tableau Public
-- [Profit Analysis by State]([https://public.tableau.com/app/profile/yourname/...](https://public.tableau.com/app/profile/carol.pamela.matos.zevallos/viz/ProfitAnalysisSuperStore_17313039575200/Dashboard1))
+- [Profit Analysis by State](https://public.tableau.com/app/profile/carol.pamela.matos.zevallos/viz/ProfitAnalysisSuperStore_17313039575200/Dashboard1)
 - [Lottery Stats](https://public.tableau.com/app/profile/carol.pamela.matos.zevallos/viz/Lottery_17324077957760/Dashboard1)
-- [Basic Profit Analysis]([https://public.tableau.com/app/profile/yourname/...](https://public.tableau.com/app/profile/carol.pamela.matos.zevallos/viz/SuperStoreProfit_17430498801280/Dashboard1))
+- [Basic Profit Analysis](https://public.tableau.com/app/profile/carol.pamela.matos.zevallos/viz/SuperStoreProfit_17430498801280/Dashboard1)
 
 ## 🛠️ Tools
 - Tableau Desktop
