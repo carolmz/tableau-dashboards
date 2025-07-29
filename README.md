@@ -2,6 +2,7 @@
 
 ## 🧠 Overview
 This repository showcases Tableau dashboards created for various domains, including finance and customer analytics. Dashboards are included as screenshots or links to Tableau Public.
+My projects can be found: https://public.tableau.com/app/profile/carol.pamela.matos.zevallos/vizzes
 
 ## 📊 Dashboards Included
 - Profit Analysis by State (Map with Lambert Conformal Conic projection)
@@ -22,4 +23,4 @@ This repository showcases Tableau dashboards created for various domains, includ
 
 ## 📌 Notes
 Other dashboards built using Python (Plotly, Streamlit) as available in the repository dashboards-python/.
-I use Tableau as my visualization tool, my projects can be found: https://public.tableau.com/app/profile/carol.pamela.matos.zevallos/vizzes
+
